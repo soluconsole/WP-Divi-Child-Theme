@@ -3,7 +3,7 @@
 
 - 🔭 This is my [divi child theme template for Solutions Console](http://solutionsconsole.co.za)
 
-- 👨‍💻 AMy portfolio of projects can be viewed at [http://wordpressdeveloper.joburg/portfolio](http://wordpressdeveloper.joburg/portfolio)
+- 👨‍💻 My portfolio of projects can be viewed at [http://wordpressdeveloper.joburg/portfolio](http://wordpressdeveloper.joburg/portfolio)
 
 - 📫 How to reach me **shayne@solutionsconsole.co.za**
 
